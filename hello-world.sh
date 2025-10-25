@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 printf '%s\n' 'Hello World!'
-printf '%s\n' 'Version 2'
+printf '%s\n' 'Version 3'
